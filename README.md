@@ -48,4 +48,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize the above template with more specific details about your project, such as installation instructions, troubleshooting, and any additional features or functionalities. Add images, diagrams, and code snippets to enhance the documentation and make it more informative for users who visit your GitHub repository.
